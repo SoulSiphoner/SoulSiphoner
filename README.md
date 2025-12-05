@@ -19,13 +19,14 @@ I'm a Full-Stack Developer passionate about **TypeScript**, **React**, and build
 
 ### 📂 Featured Projects
 1. [**Portfolio Website**](https://github.com/SoulSiphoner/portfolio) - My personal portfolio built with React & TypeScript  
-2. [**Mimo Projects**](https://github.com/SoulSiphoner/mimo-projects) - Exercises and apps from Mimo Full Stack course  
-3. [**Mini API**](https://github.com/SoulSiphoner/mini-api) - Node.js + Express REST API  
+2. [**Mini API**](https://github.com/SoulSiphoner/mini-api) - Node.js + Express REST API  
+3. [**Other Project**](https://github.com/SoulSiphoner/other-project) - Add any personal project here  
 
 ---
 
 ### 📫 How to reach me
-- Email: `andrewjohnroy@gmail.com`
+- Email: `YOUR_EMAIL_HERE`
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 
