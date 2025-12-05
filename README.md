@@ -26,6 +26,7 @@ I'm a Full-Stack Developer passionate about **TypeScript**, **React**, and build
 
 ### 📫 How to reach me
 - Email: `andrewjohnroy@gmail.com`
+- LinkedIn: [linkedin.com/in/andrew-stephenson-734505393/](https://www.linkedin.com/in/andrew-stephenson-734505393/)
 
 
 ---
