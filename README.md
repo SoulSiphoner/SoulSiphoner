@@ -18,9 +18,9 @@ I'm a Full-Stack Developer passionate about **TypeScript**, **React**, and build
 ---
 
 ### 📂 Featured Projects
-1. [**Portfolio Website**](https://github.com/YOUR_USERNAME/portfolio) - My personal portfolio built with React & TypeScript  
-2. [**Mimo Projects**](https://github.com/YOUR_USERNAME/mimo-projects) - Exercises and apps from Mimo Full Stack course  
-3. [**Mini API**](https://github.com/YOUR_USERNAME/mini-api) - Node.js + Express REST API  
+1. [**Portfolio Website**](https://github.com/SoulSiphoner/portfolio) - My personal portfolio built with React & TypeScript  
+2. [**Mimo Projects**](https://github.com/SoulSiphoner/mimo-projects) - Exercises and apps from Mimo Full Stack course  
+3. [**Mini API**](https://github.com/SoulSiphoner/mini-api) - Node.js + Express REST API  
 
 ---
 
